@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="left">My 42tokyo Projects</h1>
+<h1 align="left">My École 42 Projects</h1>
 
 | rank | project name | description |
 | ---- | ------------ | ----------- |
