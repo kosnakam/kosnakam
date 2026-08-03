@@ -16,9 +16,11 @@
                 }
 
                 h1 {
-                    font: bold 250% Consolas, Monaco, monospace;
+                    font-size: 36px;
+                    font-weight: bold;
+                    font-family: Consolas, Monaco, monospace;
                     border-right: .2em solid white;
-                    width: 21.5em;
+                    width: 40ch;
                     margin: 0.05em 0.50em;
                     padding-top: 32px;
                     padding-bottom: 32px;
