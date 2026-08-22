@@ -6,15 +6,20 @@ on:
   push:
     branches:
       - main
+
+permissions:
+  contents: write
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
       - name: Generate Metrics
         uses: lowlighter/metrics@latest
         with:
           filename: output/metrics.svg
-          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
           base: header, activity, community, repositories, metadata
 
@@ -26,3 +31,11 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_threshold: X
+      - name: Commit & Push
+        run: |
+          git config user.name "kosnakam"
+          git config user.email "kosnakam@outlook.jp"
+          git add output/metrics.svg
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: update github metrics"
+          git push

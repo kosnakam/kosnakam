@@ -7,20 +7,24 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     name: Generate 3D Contribution Graph
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
           git config user.name "kosnakam"
           git config user.email "kosnakam@outlook.jp"
-          git add -A
-          git commit -m "generated"
+          git add profile-3d-contrib/
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: update 3d contribution graph"
           git push
