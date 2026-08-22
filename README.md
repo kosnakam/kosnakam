@@ -32,6 +32,8 @@
 
 ## Featured Projects
 
+<div align="center">
+
 | Rank | Project | Focus |
 | ---- | ------- | ----- |
 | 1 | [minishell](https://github.com/jaytakahashii/42_minishell) | Process control, parsing, file descriptors |
@@ -42,6 +44,8 @@
 | 6 | [Leaffliction](https://github.com/hosonu/42_Leaffliction) | CNN-based disease classification |
 | 7 | [Inception-of-Things](https://github.com/Ceidoux/Inception-of-Things) | Kubernetes and infrastructure fundamentals |
 | 8 | [Cloud-1](https://github.com/FlorianBesson/cloud-1) | Cloud deployment and operations |
+
+</div>
 
 ## Automation
 
