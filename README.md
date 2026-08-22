@@ -3,15 +3,18 @@
 
 ## 🚀 **About Me**
 
+<div align="center">
+
 | Contact / Info | Details |
 | :--- | :--- |
 | **Location** | 🇫🇷 Paris (École 42) |
 | **Website** | [![Website](https://img.shields.io/badge/42.fr-Website-000000?style=flat-square&logo=42&logoColor=white)](https://42.fr/en/homepage/) |
 | **Email** | [![Email](https://img.shields.io/badge/Email-kosnakam%40outlook.jp-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:kosnakam@outlook.jp) |
 | **Phone** | [![Phone](https://img.shields.io/badge/Phone-%2B33%207%2045%2014%2097%2086-25D366?style=flat-square&logo=phone&logoColor=white)](tel:+33745149786) |
-| **GitHub** | [![GitHub](https://img.shields.io/badge/GitHub-kosnakam-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kosnakam) |
 | **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-koshiro--nakamura-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koshiro-nakamura-a85237404) |
-| **Qiita** | [![Qiita](https://img.shields.io/badge/Qiita-kosnakam-55C500?style=flat-square&logo=qiita&logoColor=white)](https://qiita.com/kosnakam) |
+| **Qiita** | [![Qiita](https://img.shields.io/badge/Qiita-kosnakam-55C500?style=flat-square&logo=qiita&logoColor=white)(https://qiita.com/kosnakam)] |
+
+</div>
 
 ## 3D Activity Scene
 
