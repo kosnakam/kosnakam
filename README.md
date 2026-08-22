@@ -15,4 +15,39 @@
 | 7 | [Inception-of-Things](https://github.com/Ceidoux/Inception-of-Things) | Inception-of-Things (IoT) is an introduction to system administration and orchestration through Kubernetes. |
 | 8 | [Cloud-1](https://github.com/FlorianBesson/cloud-1) | This project is an introduction to cloud servers. |
 
+<h1 align="left">My École 42 Projects</h1>
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jay-takahashi) </td>
+
+## My GitHub Stats
+
+
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.base.svg" width="400" />
+    <source media="(prefers-color-scheme: light)" srcset="output/metrics.base.svg" width="400" />
+    <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/username/username/output-3d-contrib/day.svg" />
+  </picture>
+  <picture>
+   	<source media="(prefers-color-scheme: dark)"  srcset="output/details.svg" width="400" />
+    <source media="(prefers-color-scheme: light)" srcset="output/details.svg" width="400" />
+    <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/username/username/output-3d-contrib/day.svg" />
+  </picture>
+</p>
+
+<p align="left" >
+	<picture>
+	  <source media="(prefers-color-scheme: dark)"  srcset="profile-3d-contrib/profile-night-rainbow.svg" width="700" />
+	  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-season-animate.svg" width="700" />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/username/username/output-3d-contrib/day.svg" />
+	</picture>
+</p>　
+
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: light)"  srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
+    <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
+  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/username/username/output-3d-contrib/day.svg" />
+  </picture>
+</p>
+
 ###
