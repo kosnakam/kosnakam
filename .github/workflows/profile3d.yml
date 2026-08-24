@@ -24,6 +24,9 @@ jobs:
       - name: Commit & Push
         run: |
           mkdir -p output/profile-3d-contrib
+          if [ -d profile-3d-contrib ]; then
+            mv profile-3d-contrib output/profile-3d-contrib
+          fi
           git config user.name "kosnakam"
           git config user.email "kosnakam@outlook.jp"
           git add output/profile-3d-contrib/
