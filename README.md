@@ -5,6 +5,7 @@
 
 <div align="center">
 
+| Contact / Info | Details |
 | :--- | :--- |
 | **Location🌍** | 🇫🇷 Paris (École 42) [![Website](https://img.shields.io/badge/42.fr-000000?style=flat-square&logo=42&logoColor=white)](https://42.fr/en/homepage/) |
 | **Language🗣️** | JPN 🇯🇵(Native), ENG 🏴󠁧󠁢󠁥󠁮󠁧󠁿(Upper Intermediate), FRE 🇫🇷(Beginner) |
