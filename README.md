@@ -14,7 +14,7 @@
 
 </div>
 
-## GitHub Activity
+## 🕶️ **GitHub Activity**
 
 <p align="center">
   <picture>
@@ -24,7 +24,7 @@
   </picture>
 </p>
 
-## Featured Projects
+## 📋 **Featured Projects**
 
 <div align="center">
 
@@ -41,7 +41,7 @@
 
 </div>
 
-## Metrics Dashboard
+## 📝 **Metrics Dashboard**
 
 <p align="center">
   <img src="output/metrics.svg" alt="github metrics" width="900" />
