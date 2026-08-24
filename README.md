@@ -27,16 +27,16 @@
 
 <div align="center">
 
-| Rank | Project | Focus |
-| ---- | ------- | ----- |
-| 1 | [minishell](https://github.com/jaytakahashii/42_minishell) | Process control, parsing, file descriptors |
-| 2 | [cub3d](https://github.com/jaytakahashii/42_Cub3D) | Raycasting engine and pseudo-3D rendering |
-| 3 | [ft_irc](https://github.com/jaytakahashii/42_ft_irc) | Network protocol design and server architecture |
-| 4 | [ft_transcendence](https://github.com/jaytakahashii/ft_transcendence) | Full-stack web game platform |
-| 5 | [Gomoku](https://github.com/hosonu/42_Gomoku) | AI search strategies and game logic |
-| 6 | [Leaffliction](https://github.com/hosonu/42_Leaffliction) | CNN-based disease classification |
-| 7 | [Inception-of-Things](https://github.com/Ceidoux/Inception-of-Things) | Kubernetes and infrastructure fundamentals |
-| 8 | [Cloud-1](https://github.com/FlorianBesson/cloud-1) | Cloud deployment and operations |
+| Project | Focus | Tech |
+| ------- | ----- | ---- |
+| [minishell](https://github.com/jaytakahashii/42_minishell) | Process control, parsing, file descriptors | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white) |
+| [cub3d](https://github.com/jaytakahashii/42_Cub3D) | Raycasting engine and pseudo-3D rendering | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white) |
+| [ft_irc](https://github.com/jaytakahashii/42_ft_irc) | Network protocol design and server architecture | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Socket](https://img.shields.io/badge/Socket-000000?style=flat-square&logo=linux&logoColor=white) |
+| [ft_transcendence](https://github.com/jaytakahashii/ft_transcendence) | Full-stack web game platform | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| [Gomoku](https://github.com/hosonu/42_Gomoku) | AI search strategies and game logic | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AI](https://img.shields.io/badge/AI-Minimax-FFB000?style=flat-square) |
+| [Leaffliction](https://github.com/hosonu/42_Leaffliction) | CNN-based disease classification | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
+| [Inception-of-Things](https://github.com/Ceidoux/Inception-of-Things) | Kubernetes and infrastructure fundamentals | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
+| [Cloud-1](https://github.com/FlorianBesson/cloud-1) | Cloud deployment and operations | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 
 </div>
 
