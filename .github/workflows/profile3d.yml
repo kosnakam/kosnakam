@@ -20,11 +20,12 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+          OUTPUT_DIR: output/profile-3d-contrib
       - name: Commit & Push
         run: |
           git config user.name "kosnakam"
           git config user.email "kosnakam@outlook.jp"
-          git add profile-3d-contrib/
+          git add output/profile-3d-contrib/
           git diff --cached --quiet && exit 0
           git commit -m "chore: update 3d contribution graph"
           git push

@@ -1,5 +1,4 @@
-<img alt="SNQ-2001" src="img/header.svg" width="100%" height="100%">
-
+<img alt="SNQ-2001" src="output/header.svg" width="100%" height="100%">
 
 ## 🚀 **About Me**
 
@@ -46,9 +45,3 @@
 <p align="center">
   <img src="output/metrics.svg" alt="github metrics" width="900" />
 </p>
-
-## Automation
-
-- 3D graph generation: `.github/profile3d.yml`
-- Metrics generation: `.github/metrics.yml`
-- Both workflows run daily and on push to `main`.
