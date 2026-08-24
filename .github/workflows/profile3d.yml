@@ -20,10 +20,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          OUTPUT_DIR: output
+          OUTPUT_DIR: output/profile-3d-contrib
       - name: Commit & Push
         run: |
-          mkdir -p output/profile-3d-contrib
           git config user.name "kosnakam"
           git config user.email "kosnakam@outlook.jp"
           git add output/profile-3d-contrib/
