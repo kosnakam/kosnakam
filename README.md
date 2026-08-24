@@ -17,9 +17,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg" width="900" />
-    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-season-animate.svg" width="900" />
-    <img alt="3d contribution graph" src="https://raw.githubusercontent.com/kosnakam/kosnakam/main/profile-3d-contrib/profile-green-animate.svg" width="900" />
+    <source media="(prefers-color-scheme: dark)" srcset="output/profile-3d-contrib/profile-night-rainbow.svg" width="900" />
+    <source media="(prefers-color-scheme: light)" srcset="output/profile-3d-contrib/profile-season-animate.svg" width="900" />
+    <img alt="3d contribution graph" src="https://raw.githubusercontent.com/kosnakam/kosnakam/main/output/profile-3d-contrib/profile-green-animate.svg" width="900" />
   </picture>
 </p>
 
