@@ -8,8 +8,8 @@
 | :--- | :--- |
 | **Location🌍** | 🇫🇷 Paris (École 42) [![Website](https://img.shields.io/badge/42.fr-000000?style=flat-square&logo=42&logoColor=white)](https://42.fr/en/homepage/) |
 | **Language🗣️** | <ul><li>🇯🇵JPN(Native)</li><li>🇬🇧ENG(Upper Intermediate)</li><li>🇫🇷FRE(Beginner)</li></ul> |
-| **Website🌐** | [![Qiita](https://img.shields.io/badge/Qiita-55C500?style=flat-square&logo=qiita&logoColor=white)](https://qiita.com/kosnakam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koshiro-nakamura-a85237404) |
-| **Contact📞** | [![Email](https://img.shields.io/badge/Email-kosnakam%40outlook.jp-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:kosnakam@outlook.jp) |
+| **Website🌐** | [![Qiita](https://img.shields.io/badge/Qiita-55C500?style=flat-square&logo=qiita&logoColor=white)](https://qiita.com/kosnakam) |
+| **Contact📞** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koshiro-nakamura-a85237404) [![Email](https://img.shields.io/badge/Email-kosnakam%40outlook.jp-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:kosnakam@outlook.jp) |
 
 </div>
 
