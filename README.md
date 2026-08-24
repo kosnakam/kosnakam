@@ -7,14 +7,14 @@
 
 | Contact / Info | Details |
 | :--- | :--- |
-| **Location** | 🇫🇷 Paris (École 42) [![Website](https://img.shields.io/badge/42.fr-000000?style=flat-square&logo=42&logoColor=white)](https://42.fr/en/homepage/)|
-| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-koshiro--nakamura-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koshiro-nakamura-a85237404) |
-| **Qiita** | [![Qiita](https://img.shields.io/badge/Qiita-kosnakam-55C500?style=flat-square&logo=qiita&logoColor=white)](https://qiita.com/kosnakam) |
-| **Contact** | [![Email](https://img.shields.io/badge/Email-kosnakam%40outlook.jp-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:kosnakam@outlook.jp) |
+| **Location🌍** | 🇫🇷 Paris (École 42) [![Website](https://img.shields.io/badge/42.fr-000000?style=flat-square&logo=42&logoColor=white)](https://42.fr/en/homepage/) |
+| **Language🗣️** | Japanese(Native), English(Upper Intermediate), French(Beginner) |
+| **Website🌐** | [![Qiita](https://img.shields.io/badge/Qiita-55C500?style=flat-square&logo=qiita&logoColor=white)](https://qiita.com/kosnakam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koshiro-nakamura-a85237404) |
+| **Contact📞** | [![Email](https://img.shields.io/badge/Email-kosnakam%40outlook.jp-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:kosnakam@outlook.jp) |
 
 </div>
 
-## 3D Activity Scene
+## GitHub Activity
 
 <p align="center">
   <picture>
@@ -22,12 +22,6 @@
     <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-season-animate.svg" width="900" />
     <img alt="3d contribution graph" src="https://raw.githubusercontent.com/kosnakam/kosnakam/main/profile-3d-contrib/profile-green-animate.svg" width="900" />
   </picture>
-</p>
-
-## Metrics Dashboard
-
-<p align="center">
-  <img src="output/metrics.svg" alt="github metrics" width="900" />
 </p>
 
 ## Featured Projects
@@ -46,6 +40,12 @@
 | 8 | [Cloud-1](https://github.com/FlorianBesson/cloud-1) | Cloud deployment and operations |
 
 </div>
+
+## Metrics Dashboard
+
+<p align="center">
+  <img src="output/metrics.svg" alt="github metrics" width="900" />
+</p>
 
 ## Automation
 
